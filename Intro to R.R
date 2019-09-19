@@ -1,5 +1,8 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
+# R script to accompany Intro to R
+#
+# Kylie Seyler Class of 2023
+#
+#customized by Kylie Seyler
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
