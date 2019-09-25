@@ -1,6 +1,6 @@
 # R script to accompany Intro to R
 #
-# Kylie Seyler Class of 2023
+# Copy for Kylie Seyler Class of 2023
 #
 #customized by Kylie Seyler
 ######################################################
